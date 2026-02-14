@@ -1,1 +1,1 @@
-Quadratic-Voting# Quadratic-Voting
+Quadratic Voting
